@@ -1,9 +1,9 @@
 {
   "prefix": {
-    "default": "b.",
-    "351415508987412482": "b.",
-    "344599030954983445": "b."
+    "default": "./",
+    "351415508987412482": "./",
+    "344599030954983445": "./"
   },
-  "TOKEN": "discord-token-goes-here",
-  "BOT_ID": "bot-id-goes-here"
+  "TOKEN": "NTY5NDMyNDA0MzYwNTYwNjQw.XOBHPg.xbH9Vj4EQNDgXR3S3yBTgp973Hg",
+  "BOT_ID": "569432404360560640"
 }
